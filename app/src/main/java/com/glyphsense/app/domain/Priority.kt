@@ -1,4 +1,4 @@
-package com.glyphsense.app
+package com.glyphsense.app.domain
 
 enum class PriorityLevel {
     IMPORTANT,

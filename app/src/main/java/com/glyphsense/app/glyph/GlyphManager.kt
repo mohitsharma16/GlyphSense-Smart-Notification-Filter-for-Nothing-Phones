@@ -1,8 +1,12 @@
-package com.glyphsense.app
+package com.glyphsense.app.glyph
 
 import android.content.Context
 import android.util.Log
-import kotlinx.coroutines.*
+import com.glyphsense.app.domain.PriorityLevel
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 
 class GlyphManager(private val context: Context) {
     private var glyphInstance: Any? = null

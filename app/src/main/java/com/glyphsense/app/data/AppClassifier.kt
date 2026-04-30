@@ -1,4 +1,6 @@
-package com.glyphsense.app
+package com.glyphsense.app.data
+
+import com.glyphsense.app.domain.PriorityLevel
 
 object AppClassifier {
 

@@ -1,8 +1,10 @@
-package com.glyphsense.app
+package com.glyphsense.app.service
 
 import android.service.notification.NotificationListenerService
 import android.service.notification.StatusBarNotification
 import android.util.Log
+import com.glyphsense.app.glyph.GlyphManager
+import com.glyphsense.app.data.AppClassifier
 
 class NotificationService : NotificationListenerService() {
 
