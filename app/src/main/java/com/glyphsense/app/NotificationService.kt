@@ -1,4 +1,4 @@
-package com.example.glyphsense
+package com.glyphsense.app
 
 import android.service.notification.NotificationListenerService
 import android.service.notification.StatusBarNotification

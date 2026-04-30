@@ -1,4 +1,4 @@
-package com.example.glyphsense.ui.theme
+package com.glyphsense.app.ui.theme
 
 import android.app.Activity
 import android.os.Build

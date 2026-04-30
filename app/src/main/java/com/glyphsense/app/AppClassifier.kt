@@ -1,4 +1,4 @@
-package com.example.glyphsense
+package com.glyphsense.app
 
 object AppClassifier {
 

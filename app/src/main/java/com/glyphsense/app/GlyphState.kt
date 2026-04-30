@@ -1,4 +1,4 @@
-package com.example.glyphsense
+package com.glyphsense.app
 
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

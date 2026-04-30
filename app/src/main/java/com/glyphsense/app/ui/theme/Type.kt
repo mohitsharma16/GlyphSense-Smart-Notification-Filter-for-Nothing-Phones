@@ -1,4 +1,4 @@
-package com.example.glyphsense.ui.theme
+package com.glyphsense.app.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

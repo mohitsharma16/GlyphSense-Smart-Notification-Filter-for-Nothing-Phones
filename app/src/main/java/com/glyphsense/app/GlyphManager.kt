@@ -1,4 +1,4 @@
-package com.example.glyphsense
+package com.glyphsense.app
 
 import android.content.Context
 import android.util.Log

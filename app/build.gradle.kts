@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.glyphsense"
+    namespace = "com.glyphsense.app"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.glyphsense"
+        applicationId = "com.glyphsense.app"
         minSdk = 33
         targetSdk = 36
         versionCode = 1

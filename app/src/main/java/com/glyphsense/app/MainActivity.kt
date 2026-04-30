@@ -1,4 +1,4 @@
-package com.example.glyphsense
+package com.glyphsense.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
