@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">GlyphSense</string>
+    <string name="toy_name">GlyphSense</string>
+    <string name="toy_summary">Glance at pending notifications by priority</string>
+    <string name="notification_listener_label">GlyphSense Notification Access</string>
+
+    <string name="home_title">GlyphSense</string>
+    <string name="home_subtitle">A notification glance toy for your Glyph Matrix</string>
+    <string name="home_setup_step_permission">1. Grant notification access</string>
+    <string name="home_setup_step_priorities">2. Pick which apps matter</string>
+    <string name="home_setup_step_toy">3. Activate the toy on your Glyph Matrix</string>
+    <string name="action_open_permission">Open Settings</string>
+    <string name="action_manage_apps">Manage app priorities</string>
+
+    <string name="permission_granted">Notification access granted</string>
+    <string name="permission_missing">Notification access required</string>
+
+    <string name="apps_title">App priorities</string>
+    <string name="apps_subtitle">Pick how each app should appear on the Glyph</string>
+    <string name="priority_important">Important</string>
+    <string name="priority_normal">Normal</string>
+    <string name="priority_silent">Silent</string>
+
+    <string name="loading">Loading…</string>
+    <string name="search_apps">Search apps</string>
+    <string name="empty_no_apps">No launcher apps found on this device</string>
+    <string name="empty_no_results">No apps match \"%1$s\"</string>
+
+    <string name="device_supported_devices">Works on Nothing Phone (3) and Phone (4a) Pro</string>
 </resources>
